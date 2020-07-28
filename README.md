@@ -1,3 +1,7 @@
+# About
+
+Forked from https://github.com/simplewebrtc/signalmaster
+
 # Deprecated
 
 The open-source version of SimpleWebRTC has been deprecated. This repository will remain as-is but is no longer actively maintained.
